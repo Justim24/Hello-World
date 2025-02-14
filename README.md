@@ -1,5 +1,5 @@
 # Hello-World
-First Repository
+**First Repository**
 
 ## Table of Contents
 - [PROJECT TITLE](#Project-Title)
@@ -12,7 +12,9 @@ First Repository
 
 ## Project Title
 ## Description
+*First  Repository Text*
 ## How to run program
 ## files used
 ## additional documentation
+[Linkedin}(https://www.linkedin.com/in/justin-freeman24/)
 ## versioning
