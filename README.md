@@ -1,9 +1,7 @@
 # Hello-World
 First Repository
-## Heading 1
-### Heading 2
-*italicized text*
 
+## Table of Contents
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
