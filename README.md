@@ -16,5 +16,5 @@
 ## How to run program
 ## files used
 ## additional documentation
-[Linkedin}(https://www.linkedin.com/in/justin-freeman24/)
+[Linkedin](https://www.linkedin.com/in/justin-freeman24/)
 ## versioning
